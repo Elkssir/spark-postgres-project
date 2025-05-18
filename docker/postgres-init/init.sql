@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS word_counts (
+    word VARCHAR(255) PRIMARY KEY,
+    count INTEGER
+);
