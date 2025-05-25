@@ -1,0 +1,4 @@
+Ceci est un exemple de texte pour le traitement Spark.
+Nous allons compter les occurrences de chaque mot dans ce texte.
+Spark est un moteur de traitement distribué en mémoire.
+Apache Spark permet de traiter de grandes quantités de données.
